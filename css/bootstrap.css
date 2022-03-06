@@ -1437,7 +1437,6 @@ img {
 .thumbnail>img {
     max-width: 100%;
     width: 628px;
-    height: auto;
 }
 
 .img-rounded {
